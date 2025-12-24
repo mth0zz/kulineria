@@ -1,0 +1,156 @@
+{
+  "dashboard": {
+    "kpis": [
+      {
+        "id": 1,
+        "title": "Total Restoran",
+        "value": 1248,
+        "change": 12,
+        "trend": "up",
+        "icon": "utensils"
+      },
+      {
+        "id": 2,
+        "title": "Total Ulasan",
+        "value": 5642,
+        "change": 23,
+        "trend": "up",
+        "icon": "star"
+      },
+      {
+        "id": 3,
+        "title": "Rating Rata-rata",
+        "value": 4.6,
+        "change": 2,
+        "trend": "up",
+        "icon": "award"
+      },
+      {
+        "id": 4,
+        "title": "Pengguna Aktif",
+        "value": 3421,
+        "change": -5,
+        "trend": "down",
+        "icon": "users"
+      }
+    ],
+    "chartData": [
+      {
+        "month": "Jan",
+        "restoran": 400,
+        "ulasan": 200,
+        "pengguna": 150
+      },
+      {
+        "month": "Feb",
+        "restoran": 450,
+        "ulasan": 240,
+        "pengguna": 180
+      },
+      {
+        "month": "Mar",
+        "restoran": 420,
+        "ulasan": 280,
+        "pengguna": 200
+      },
+      {
+        "month": "Apr",
+        "restoran": 520,
+        "ulasan": 350,
+        "pengguna": 250
+      },
+      {
+        "month": "May",
+        "restoran": 580,
+        "ulasan": 420,
+        "pengguna": 300
+      },
+      {
+        "month": "Jun",
+        "restoran": 610,
+        "ulasan": 500,
+        "pengguna": 350
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "id": 1,
+      "restoran": "Nasi Goreng Pak Haji",
+      "reviewer": "Budi Santoso",
+      "rating": 5,
+      "title": "Enak banget!",
+      "content": "Nasi gorengnya lezat, porsinya banyak, dan harganya terjangkau. Mantap!",
+      "status": "pending",
+      "createdAt": "2024-11-04"
+    },
+    {
+      "id": 2,
+      "restoran": "Soto Ayam Ibu Siti",
+      "reviewer": "Ani Wijaya",
+      "rating": 4,
+      "title": "Sopnya pas!",
+      "content": "Soto ayamnya authentic dan kuahnya gurih. Saatnya datang lagi.",
+      "status": "pending",
+      "createdAt": "2024-11-03"
+    },
+    {
+      "id": 3,
+      "restoran": "Bakso Urat Pak Udin",
+      "reviewer": "Rendra Pratama",
+      "rating": 3,
+      "title": "Lumayan",
+      "content": "Baksonya cukup enak tapi layanannya agak lambat.",
+      "status": "approved",
+      "createdAt": "2024-11-02"
+    },
+    {
+      "id": 4,
+      "restoran": "Gado-gado Mas Tarno",
+      "reviewer": "Siti Nurhaliza",
+      "rating": 5,
+      "title": "Terbaik di kelurahan!",
+      "content": "Gado-gadonya segar dan pecelnya pas. Jadi langganan deh.",
+      "status": "approved",
+      "createdAt": "2024-11-01"
+    }
+  ],
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Nasi Goreng Pak Haji",
+      "category": "Nasi Goreng",
+      "rating": 4.8,
+      "reviews": 245,
+      "city": "Jakarta",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "name": "Soto Ayam Ibu Siti",
+      "category": "Soto Ayam",
+      "rating": 4.6,
+      "reviews": 189,
+      "city": "Surabaya",
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "name": "Bakso Urat Pak Udin",
+      "category": "Bakso",
+      "rating": 4.4,
+      "reviews": 156,
+      "city": "Bandung",
+      "status": "active"
+    },
+    {
+      "id": 4,
+      "name": "Gado-gado Mas Tarno",
+      "category": "Gado-gado",
+      "rating": 4.7,
+      "reviews": 212,
+      "city": "Yogyakarta",
+      "status": "active"
+    }
+  ]
+}

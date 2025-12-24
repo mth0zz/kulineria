@@ -1,0 +1,47 @@
+[
+  {
+    "id": "k_001",
+    "title": "Rendang Padang",
+    "kategori": "Makanan",
+    "provinsi": "Sumatera Barat",
+    "kota": "Padang",
+    "status": "Published",
+    "slug": "rendang-padang"
+  },
+  {
+    "id": "k_002",
+    "title": "Pempek",
+    "kategori": "Makanan",
+    "provinsi": "Sumatera Selatan",
+    "kota": "Palembang",
+    "status": "Published",
+    "slug": "pempek-palembang"
+  },
+  {
+    "id": "k_003",
+    "title": "Gudeg",
+    "kategori": "Makanan",
+    "provinsi": "DI Yogyakarta",
+    "kota": "Yogyakarta",
+    "status": "Published",
+    "slug": "gudeg-jogja"
+  },
+  {
+    "id": "k_004",
+    "title": "Coto Makassar",
+    "kategori": "Makanan",
+    "provinsi": "Sulawesi Selatan",
+    "kota": "Makassar",
+    "status": "Published",
+    "slug": "coto-makassar"
+  },
+  {
+    "id": "k_005",
+    "title": "Papeda Kuah Kuning",
+    "kategori": "Makanan",
+    "provinsi": "Papua",
+    "kota": "Jayapura",
+    "status": "Draft",
+    "slug": "papeda-kuah-kuning"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "rev_1001",
+    "kuliner": "Coto Makassar",
+    "user": "anon_83",
+    "rating": 5,
+    "excerpt": "Kuahnya mantap, rempahnya nendang.",
+    "createdAt": "2025-11-04T11:21:00Z",
+    "status": "pending"
+  },
+  {
+    "id": "rev_1002",
+    "kuliner": "Pempek Palembang",
+    "user": "anon_21",
+    "rating": 4,
+    "excerpt": "Cukonya pas, ikan berasa.",
+    "createdAt": "2025-11-03T14:02:00Z",
+    "status": "pending"
+  },
+  {
+    "id": "rev_1003",
+    "kuliner": "Gudeg Jogja",
+    "user": "anon_17",
+    "rating": 3,
+    "excerpt": "Agak terlalu manis buat saya.",
+    "createdAt": "2025-11-02T08:45:00Z",
+    "status": "approved"
+  },
+  {
+    "id": "rev_1004",
+    "kuliner": "Rendang Padang",
+    "user": "anon_99",
+    "rating": 5,
+    "excerpt": "Bumbu meresap, empuk sekali.",
+    "createdAt": "2025-11-01T19:30:00Z",
+    "status": "rejected"
+  },
+  {
+    "id": "rev_1005",
+    "kuliner": "Papeda Kuah Kuning",
+    "user": "anon_42",
+    "rating": 4,
+    "excerpt": "Uniknya pas, kuliner asli Papua.",
+    "createdAt": "2025-10-31T16:45:00Z",
+    "status": "pending"
+  }
+]
