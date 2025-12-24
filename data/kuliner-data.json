@@ -1,0 +1,38 @@
+{
+  "id": "rendang-sapi-padang",
+  "nama": "Rendang Sapi Asli Padang",
+  "daerah": "Sumatera Barat",
+  "kategori": "Daging",
+  "rating_rata_rata": 4.9,
+  "harga": "Rp 25.000 - Rp 150.000",
+  "deskripsi": {
+    "ringkas": "Rendang adalah mahakarya kuliner Indonesia, sebuah hidangan daging bercita rasa pedas yang dimasak dalam waktu lama dengan santan dan rempah-rempah pilihan.",
+    "lengkap": "Rendang, yang dinobatkan sebagai salah satu hidangan terlezat di dunia, adalah masakan tradisional Minangkabau. Proses memasaknya yang lambat (karamelisasi) memungkinkan bumbu meresap sempurna hingga ke serat daging terdalam. Hasilnya adalah daging yang empuk dengan dedak rendang yang kaya rasa, menjadikannya hidangan istimewa yang tak terlupakan."
+  },
+  "gallery": [
+    "https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2023/07/31040437/ini-resep-bumbu-rendang-daging-sapi-untuk-acara-spesial.jpg?height=400&width=400",
+    "https://www.frisianflag.com/storage/app/media/uploaded-files/rendang-padang.jpg?height=400&width=400",
+    "https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2023/07/31040437/ini-resep-bumbu-rendang-daging-sapi-untuk-acara-spesial.jpg?height=400&width=400",
+    "https://www.frisianflag.com/storage/app/media/uploaded-files/rendang-padang.jpg?height=400&width=400"
+  ],
+  "resep": {
+    "bahan": [
+      "1 kg daging sapi (potong sesuai selera)",
+      "500 ml santan kental (dari 2 butir kelapa tua)",
+      "1.5 liter santan encer",
+      "3 lembar daun kunyit, simpulkan",
+      "4 lembar daun jeruk",
+      "2 batang serai, memarkan",
+      "2 ruas asam kandis"
+    ],
+    "langkah": [
+      "Haluskan semua bumbu halus: bawang merah, bawang putih, cabai, jahe, lengkuas, kunyit, dan ketumbar.",
+      "Tumis bumbu halus bersama daun kunyit, daun jeruk, dan serai hingga harum dan matang.",
+      "Masukkan potongan daging sapi, aduk hingga berubah warna.",
+      "Tuangkan santan encer dan asam kandis. Masak dengan api sedang sambil sesekali diaduk hingga santan menyusut.",
+      "Setelah santan menyusut dan mulai mengental, tuangkan santan kental. Masak terus dengan api kecil.",
+      "Terus aduk perlahan hingga santan mengering dan mengeluarkan minyak, serta bumbu berubah menjadi dedak berwarna cokelat gelap.",
+      "Rendang siap disajikan."
+    ]
+  }
+}
